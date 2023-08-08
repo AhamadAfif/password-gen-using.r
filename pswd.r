@@ -9,6 +9,6 @@ paste(sample(sampling,n),collapse = "")
 }
 
 
-password(11)
+password(11) <can be of any lenght>
 
 
